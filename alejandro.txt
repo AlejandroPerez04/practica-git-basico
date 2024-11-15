@@ -1,0 +1,14 @@
+los comandos que aprendi en este taller son:
+    git pull
+    git clone "ruta repositorio"
+    git add
+    git commit
+    git push
+    git checkout "nombre branch"
+    git checkout -b "Nueva branch"
+    git merge
+    git push
+    git revert
+    git reset -hard
+    git reset -soft
+    git push origin main --force
