@@ -18,7 +18,11 @@ esta es la prueba de reset 5
 
 esta es la prueba de rest 6
 
+<<<<<<< HEAD
 
 
 
 Hola soy Brii, este es mi commit para el taller de Git, me gusta la pina.
+=======
+Hola soy criss
+>>>>>>> 517422fbaca70127d8e8c5243615a0cafe05b28d
