@@ -1,0 +1,8 @@
+git branch (Mostrar ramas en repositorio creadas)
+git checkout -b "nombre de la nueva rama creada" (Crear rama)
+git add "nombre del archivo . (tipo de archivo)" (añadir a rama el archivo)
+git marge (combinar ramas)
+git pull (direccion) (abrir repositorio)
+git clone (direccion) (clonar repositorio)
+git commit -m "mensaje" (Añadir archivo guardado)
+git revert HEAD (Revertir cambio)
