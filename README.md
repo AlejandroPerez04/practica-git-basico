@@ -17,3 +17,5 @@ mi serie favorita es elite
 esta es la prueba de reset 5
 
 esta es la prueba de rest 6
+
+Hola soy criss
