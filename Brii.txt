@@ -1,0 +1,17 @@
+Comandos de Git basicos
+
+git init
+git status
+git add <nombre del archivo>
+git commit -m
+git remote add
+git clone
+git pull
+git push
+git branch
+git checkout
+git merge
+git restore --hard
+git reset --hard
+git push origin main
+git checkout -b
