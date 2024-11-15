@@ -17,3 +17,8 @@ mi serie favorita es elite
 esta es la prueba de reset 5
 
 esta es la prueba de rest 6
+
+
+
+
+Hola soy Brii, este es mi commit para el taller de Git, me gusta la pina.
